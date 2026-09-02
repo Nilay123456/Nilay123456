@@ -13,14 +13,14 @@ MSc Computer Science student at University College Dublin, focused on AI enginee
 
 ## About
 
-```typescript
-const nilay = {
-  location: "Dublin, Ireland",
-  education: "MSc Computer Science @ University College Dublin",
-  focus: ["AI engineering", "Backend APIs", "Data/ML products", "System design"],
-  currentPrep: ["DSA", "HLD/LLD", "AI engineering projects", "Resume deep dives"],
-};
-```
+I am currently pursuing MSc Computer Science at University College Dublin. I am focused on building practical AI, backend, and data products, while strengthening my system design and DSA interview preparation.
+
+My current focus areas are:
+
+- AI engineering and LLM-powered applications
+- Backend APIs and data pipelines
+- Data/ML products and model deployment
+- System design, HLD/LLD, and resume project deep dives
 
 ## Tech Stack
 
