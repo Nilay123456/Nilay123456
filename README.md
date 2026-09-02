@@ -6,6 +6,9 @@ MSc Computer Science student at University College Dublin, focused on AI enginee
   <a href="https://www.linkedin.com/in/nilay-p-patil/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://nilay-ai-portfolio.vedu1317.chatgpt.site/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/Nilay123456">
     <img src="https://img.shields.io/badge/GitHub-Nilay123456-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
