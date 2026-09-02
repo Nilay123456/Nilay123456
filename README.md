@@ -28,13 +28,11 @@ MSc Computer Science student at University College Dublin, focused on AI enginee
 | OpenAI API, LangChain-style workflows | PostgreSQL, Redis concepts, Docker | Tailwind CSS, Streamlit, Git |
 | Typed AI outputs, model deployment | Caching, queues, reliability tradeoffs | Recharts, GitHub |
 
-## Open Source And Team Contributions
+## Team Contributions
 
 | Project | Contribution |
 | --- | --- |
-| [UCD Policy Bot](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/5) | Added FastAPI backend and integrated RAG response streaming. |
-| [UCD Policy Bot](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/7) | Connected frontend CORS and completed `/query` response flow. |
-| [UCD Policy Bot](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/9) | Moved the RAG pipeline into the backend package for cleaner structure. |
+| [UCD Policy Bot](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot) | Contributed to a team-built RAG policy assistant for UCD. Worked on FastAPI backend setup, RAG response streaming, frontend CORS/query integration, and backend package restructuring. PRs: [#5](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/5), [#7](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/7), [#9](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/9). |
 
 ## Featured Projects
 
