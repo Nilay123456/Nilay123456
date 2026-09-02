@@ -18,7 +18,7 @@ MSc Computer Science student at University College Dublin, focused on AI enginee
 | Education | MSc Computer Science @ University College Dublin |
 | Location | Dublin, Ireland |
 | Focus | AI Engineering, Backend APIs, Data/ML Products |
-| Preparing | DSA, HLD/LLD, System Design, Resume Project Deep Dives |
+| Current Focus | DSA, HLD/LLD, System Design, AI Engineering, Project Deep Dives |
 
 ## Tech Stack
 
