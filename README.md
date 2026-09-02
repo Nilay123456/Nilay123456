@@ -35,7 +35,7 @@ MSc Computer Science student at University College Dublin, focused on AI enginee
 | [UCD Policy Bot](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/5) | Added FastAPI backend and integrated RAG response streaming. |
 | [UCD Policy Bot](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/7) | Connected frontend CORS and completed `/query` response flow. |
 | [UCD Policy Bot](https://github.com/shridharjoshi034-ai/UCD-Policy-Bot/pull/9) | Moved the RAG pipeline into the backend package for cleaner structure. |
-| [Portfolio Assistant](https://github.com/AyushPoojariUCD/portfolio-assistant/pull/1) | Restricted CORS to the production frontend origin. |
+| [Portfolio Assistant](https://github.com/AyushPoojariUCD/portfolio-assistant/pull/1) | Small configuration fix for production CORS on a friend's project. |
 
 ## Featured Projects
 
