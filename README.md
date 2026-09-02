@@ -85,20 +85,6 @@ Group distributed-systems project covering microservices, event-driven communica
 [View Project](https://github.com/shridharjoshi034-ai/DistributedSystemsGroupProject)
 
 </td>
-<td width="50%" valign="top">
-
-**System Design Preparation** — *Interview Notes And Mental Models*
-
-Daily system design notes focused on fundamentals, tradeoffs, and interview communication: load balancing, caching, databases, queues, consistency, reliability, and full design walkthroughs.
-
-<img src="https://img.shields.io/badge/System%20Design-1f6feb?style=flat-square" alt="System Design" />
-<img src="https://img.shields.io/badge/HLD%2FLLD-8957e5?style=flat-square" alt="HLD and LLD" />
-<img src="https://img.shields.io/badge/DSA-238636?style=flat-square" alt="DSA" />
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
-
-Building structured notes and project explanations for technical interviews.
-
-</td>
 </tr>
 </table>
 
