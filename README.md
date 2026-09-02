@@ -11,7 +11,12 @@ AI-assisted equity research workflow for public companies.
 - Stack: FastAPI, Next.js, Pydantic, OpenAI/LangChain, SEC EDGAR, Yahoo Finance, Recharts, Docker
 - Built: data ingestion, typed validation, planner/analysis/report workflow, DCF-style model, charts, progress UI
 - Focus: observable AI workflows, deterministic financial calculations, graceful partial-result handling
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Nilay123456/corporate-finance-autopilot)
+
+<p>
+  <a href="https://github.com/Nilay123456/corporate-finance-autopilot">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Corporate Finance Autopilot repository" />
+  </a>
+</p>
 
 ### Solar Power Generation Prediction
 
@@ -20,8 +25,15 @@ Machine learning app for predicting solar power generation from weather and time
 - Stack: Python, Pandas, scikit-learn, XGBoost, Streamlit
 - Built: preprocessing pipeline, model comparison, saved inference artifacts, deployed prediction UI
 - Focus: regression modelling, feature consistency between training and inference, deployment
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Nilay123456/Solar-power-generation)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://solar-power-generation-2jcmmsfw6ftjhqzs7xwf5b.streamlit.app/)
+
+<p>
+  <a href="https://github.com/Nilay123456/Solar-power-generation">
+    <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Solar Power Generation repository" />
+  </a>
+  <a href="https://solar-power-generation-2jcmmsfw6ftjhqzs7xwf5b.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Solar Power Generation live demo" />
+  </a>
+</p>
 
 ## What I Am Preparing For
 
