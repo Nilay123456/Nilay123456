@@ -38,23 +38,71 @@ MSc Computer Science student at University College Dublin, focused on AI enginee
 
 ## Featured Projects
 
-| Project | What It Shows |
-| --- | --- |
-| **Corporate Finance Autopilot** | AI workflow app that turns a public company ticker into an observable equity research pipeline with FastAPI, Next.js, typed models, public data ingestion, DCF-style modelling, charts, and report generation. |
-| **Solar Power Generation Prediction** | ML regression project for predicting solar power generation from weather and time-based features, with preprocessing artifacts and a deployed Streamlit app. |
-| **Distributed Supply Chain System** | Group distributed-systems project covering FastAPI services, Kafka-style event-driven thinking, databases, caching, Docker/Kubernetes concepts, and observability. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <a href="https://github.com/Nilay123456/corporate-finance-autopilot">
-    <img src="https://img.shields.io/badge/Corporate%20Finance%20Autopilot-Repo-181717?style=for-the-badge&logo=github" alt="Corporate Finance Autopilot repository" />
-  </a>
-  <a href="https://github.com/Nilay123456/Solar-power-generation">
-    <img src="https://img.shields.io/badge/Solar%20Power-Repo-181717?style=for-the-badge&logo=github" alt="Solar Power Generation repository" />
-  </a>
-  <a href="https://solar-power-generation-2jcmmsfw6ftjhqzs7xwf5b.streamlit.app/">
-    <img src="https://img.shields.io/badge/Solar%20Power-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Solar Power Generation live demo" />
-  </a>
-</p>
+**Corporate Finance Autopilot** — *AI Equity Research Workflow*
+
+AI workflow app that turns a public company ticker into an observable equity research pipeline with typed models, public data ingestion, DCF-style modelling, charts, and report generation.
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+[View Repository](https://github.com/Nilay123456/corporate-finance-autopilot)
+
+</td>
+<td width="50%" valign="top">
+
+**Solar Power Generation** — *ML Regression Deployment*
+
+Machine learning project for predicting solar power generation from weather and time-based features, with preprocessing artifacts, XGBoost modelling, and a deployed Streamlit app.
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+[View Repository](https://github.com/Nilay123456/Solar-power-generation) · [Live Demo](https://solar-power-generation-2jcmmsfw6ftjhqzs7xwf5b.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Distributed Supply Chain System** — *Event-Driven Backend Project*
+
+Group distributed-systems project covering microservices, event-driven communication, databases, caching, Docker/Kubernetes concepts, and observability.
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+
+[View Project](https://github.com/shridharjoshi034-ai/DistributedSystemsGroupProject)
+
+</td>
+<td width="50%" valign="top">
+
+**System Design Preparation** — *Interview Notes And Mental Models*
+
+Daily system design notes focused on fundamentals, tradeoffs, and interview communication: load balancing, caching, databases, queues, consistency, reliability, and full design walkthroughs.
+
+<img src="https://img.shields.io/badge/System%20Design-1f6feb?style=flat-square" alt="System Design" />
+<img src="https://img.shields.io/badge/HLD%2FLLD-8957e5?style=flat-square" alt="HLD and LLD" />
+<img src="https://img.shields.io/badge/DSA-238636?style=flat-square" alt="DSA" />
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+
+Building structured notes and project explanations for technical interviews.
+
+</td>
+</tr>
+</table>
 
 ## How I Think About Projects
 
