@@ -1,6 +1,6 @@
 # Hi, I'm Nilay Patil
 
-MSc Computer Science student at University College Dublin, focused on AI engineering, backend systems, data products, and interview-ready system design.
+MSc Computer Science student at University College Dublin, building AI, backend, and data-driven software products. Previously worked as an Associate Analyst at Merkle, where I built client-facing analytics dashboards and validated reporting data.
 
 <p>
   <a href="https://www.linkedin.com/in/nilay-p-patil/">
@@ -27,6 +27,12 @@ MSc Computer Science student at University College Dublin, focused on AI enginee
 | Python, Pandas, scikit-learn, XGBoost | FastAPI, Flask, REST APIs, SQL | Next.js, React, TypeScript |
 | OpenAI API, LangChain-style workflows | PostgreSQL, Redis concepts, Docker | Tailwind CSS, Streamlit, Git |
 | Typed AI outputs, model deployment | Caching, queues, reliability tradeoffs | Recharts, GitHub |
+
+## Experience
+
+| Role | What I Worked On |
+| --- | --- |
+| **Associate Analyst, Merkle** <br> Sep 2023 - Feb 2025, Mumbai | Worked on client-facing analytics and reporting workflows: built Power BI dashboards, validated source data and KPIs, performed reconciliation checks, and refined metrics/views based on stakeholder feedback. <br><br> **Tools:** Power BI, SQL, Python. <br> **Impact:** Improved reporting clarity and helped catch data inconsistencies before client delivery. |
 
 ## Open Source
 
